@@ -1,6 +1,7 @@
 # AC_Data_project
 This project uses Python and the Assetto Corsa physics engine to build a custom data pipeline. The goal is to generate diagnostics and diagrams quantifying how variables like tire degradation, fuel weight, and traffic interaction affect performance in a multiclass racing environment.
-🏎️ The Multiclass Environment
+
+#🏎️ The Multiclass Environment
 
 This study is modeled after WEC/IMSA (Multiclass) racing, featuring two distinct vehicle tiers:
 
