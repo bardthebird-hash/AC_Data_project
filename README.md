@@ -1,4 +1,11 @@
 # AC_Data_project
-A Data Science project using Assetto Corsa's Data Pipeline for a multiclass short race sprint
+This project uses Python and the Assetto Corsa physics engine to build a custom data pipeline. The goal is to generate diagnostics and diagrams quantifying how variables like tire degradation, fuel weight, and traffic interaction affect performance in a multiclass racing environment.
+🏎️ The Multiclass Environment
 
-This project uses Python and the Motorsport Racing Simulator "Assetto Corsa" for its physics engine and easy to use data pipeline, to create diagnostics and diagrams on how different variables in racing affect lap times, speed, etc. This is based apon the WEC/IMSA or "Multiclass racing" design, where you have 2 types of cars, a "Prototype" car, which is more technical and faster, and a "GT3" car which is slower, and is based apon a real road car. This project uses the Cars available with the Ultimate edition of Assetto Corsa, which is 2014-2016 LMP1 and GT3 cars.
+This study is modeled after WEC/IMSA (Multiclass) racing, featuring two distinct vehicle tiers:
+
+    Prototypes (LMP1): Highly technical, high-downforce, and hybrid-powered machines (e.g., Audi R18).
+
+    GT3: Slower, production-based vehicles that represent the bridge between road cars and pure race cars.
+
+Vehicle Roster: Derived from the Assetto Corsa Ultimate Edition (2014-2016 spec LMP1 and GT3).
